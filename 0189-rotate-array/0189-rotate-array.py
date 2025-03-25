@@ -3,14 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        arr = nums.copy()
-        k= k%len(nums)
-        x = len(nums) - k 
+        k=k%len(nums)
+        nums.reverse()
+
+        nums[:k]= reversed(nums[:k])
+        nums[k:]= reversed(nums[k:])
         
-        nums[:k]=arr[x:]
-        nums[k:]= arr[0:x]  
-
         return nums              
-
 
         
