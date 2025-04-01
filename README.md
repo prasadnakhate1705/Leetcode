@@ -21,6 +21,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1894-merge-strings-alternately](https://github.com/prasadnakhate1705/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/prasadnakhate1705/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
 | ------- |
