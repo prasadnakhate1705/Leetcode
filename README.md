@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Depth-First Search
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
+| [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
