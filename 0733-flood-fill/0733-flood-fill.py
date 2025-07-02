@@ -1,23 +1,26 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
 
-        directions = [(-1,0), (0,1), (1,0),(0,-1)]
+        rows = len(image)
+        cols = len(image[0])
+        visited = []
+        og_color = image[sr][sc]
+        directions = [[1,0], [0,1], [-1,0], [0,-1]]
 
-        present_color = image[sr][sc]
+        def bfs(i, j, color):
 
-        if present_color == color:
-            return image
-
-        def dfs(i, j):
-            
             image[i][j]=color
+            visited.append([i,j])
 
-            for x, y in directions:
-                if 0<= i+x <len(image) and 0<= j+y<len(image[0])  and image[i+x][j+y]             ==present_color:
-                    dfs(i+x, j+y)  
+            for x,y in directions:
+                if 0<=i+x<rows and 0<=j+y<cols and image[i+x][j+y]==og_color and [i+x, j+y] not in visited:
+                    bfs(i+x, j+y,color)
 
-        dfs(sr,sc)
 
-        return image    
+        bfs(sr,sc,color)
+
+        return image            
+
+
 
         
