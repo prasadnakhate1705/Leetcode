@@ -11,16 +11,16 @@ class Solution:
         def bfs(i,j):
             q = deque([(i,j)])
             grid[i][j]='0'
-            visited = {(i,j)}
+            
 
             while q:
                 i,j = q.popleft()
                 for di, dj  in direction:
                     x,y = i+di, j+dj
-                    if 0<=x<rows and 0<=y<cols  and grid[x][y]=='1' and (x,y) not in visited:
+                    if 0<=x<rows and 0<=y<cols  and grid[x][y]=='1':
                         grid[x][y]='0'
                         q.append((x,y))
-                        visited.add((x,y))
+                        
 
 
         for i in range(len(grid)):
