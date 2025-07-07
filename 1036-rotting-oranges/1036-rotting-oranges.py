@@ -1,45 +1,40 @@
-from collections import deque
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
 
-        directions = [(-1,0), (0,1), (1,0), (0,-1)]
-        queue = deque()
-        fresh_count = 0
-        rows, cols = len(grid), len(grid[0])
+        # 2- rotten orange
+        # 1 - fresh orange
+        # 0 - empty cell
 
-        ## first append the rotten oranges to the queue
-        ## count the fresh oranges
+        self.minutes = 0
+        rows , cols = len(grid), len(grid[0])
+        direction = [(1,0),(0,1), (0,-1), (-1,0)]
+
+        q = deque()
+
+        def bfs():   
+            while q:
+                i,j, mini = q.popleft()
+
+                self.minutes= max(self.minutes,mini)
+
+                for di, dj in direction:
+                    if 0<=di+i<rows and 0<=dj+j<cols and grid[di+i][dj+j]==1:
+                        grid[di+i][dj+j]=2
+                        q.append((di+i, dj+j,mini+1))
+
+                   
+
         for i in range(rows):
             for j in range(cols):
-                if grid[i][j] == 2:
-                    queue.append((i, j))
-                elif grid[i][j] == 1:
-                    fresh_count += 1
-        
-        ## Base Case
-        if fresh_count == 0:
-            return 0
-        
-        minutes = 0
+                if grid[i][j]==2:
+                    q.append((i,j,0))
 
-        ## travering the queue
-        while queue:
-            minutes += 1  # Increment time at each level
-            for _ in range(len(queue)):  # Process all oranges in the current level
-                i, j = queue.popleft()
-                for x, y in directions:
-                    ni, nj = i + x, j + y
-                    if 0 <= ni < rows and 0 <= nj < cols and grid[ni][nj] == 1:
-                        grid[ni][nj] = 2  # Rot the orange
-                        fresh_count -= 1
-                        queue.append((ni, nj))
-        
+        bfs()  
 
-        return minutes - 1 if fresh_count == 0 else -1                     
-
-                    
-
-                
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j]==1:
+                    return -1             
 
 
-        
+        return self.minutes  
