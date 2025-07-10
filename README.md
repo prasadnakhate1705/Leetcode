@@ -14,6 +14,7 @@
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/prasadnakhate1705/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prasadnakhate1705/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -85,6 +87,7 @@
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
