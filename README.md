@@ -8,6 +8,7 @@
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
@@ -42,6 +43,7 @@
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prasadnakhate1705/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
@@ -79,6 +81,7 @@
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/prasadnakhate1705/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
