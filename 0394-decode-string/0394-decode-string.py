@@ -9,14 +9,14 @@ class Solution:
                 current_num = 10* current_num + int(s[i])
             
             elif s[i]=='[':
-                stack.append(temp)
                 stack.append(current_num)
+                stack.append(temp)
                 temp = ''
                 current_num = 0
             
             elif s[i] == ']':
-                num = stack.pop()
                 prev_string = stack.pop()
+                num = stack.pop()
                 temp = prev_string + num * temp
                 current_num=0
             else:
