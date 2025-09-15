@@ -1,11 +1,10 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-
+        
+        # Happy Number is n=1 or n=7 otherwise False
         if n==1 or n==7:
             return True
-        
-        seen = set()
-        seen.add(n)
+    
 
         while n>9:
             num_str = str(n)
