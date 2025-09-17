@@ -2,20 +2,19 @@ class Solution:
 
     def climbStairs(self, n: int) -> int:
 
-        memo = [-1] * (n+1)
+        dp_table = [-1] * (n+1)
         
-        def dp(k):
+        def dpclimbStairs(k):
             if k<=1:
                 return 1 
             
-            if memo[k]!=-1:
-                return memo[k]
+            if dp_table[k]!=-1:
+                return dp_table[k]
             
-            memo[k] = dp(k-1) + dp(k-2)
+            dp_table[k] = dpclimbStairs(k-1) + dpclimbStairs(k-2)
 
-            return memo[k]
+            return dp_table[k]
 
-        ans = dp(n)
 
-        return ans
+        return dpclimbStairs(n)
             
