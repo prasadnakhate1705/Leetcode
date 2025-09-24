@@ -3,7 +3,9 @@ class Solution:
 
         if len(s)==0:
             return 0
-
+            
+        g.sort()
+        s.sort()
     
         i,j =0,0
         count = 0
