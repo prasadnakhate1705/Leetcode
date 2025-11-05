@@ -1,0 +1,20 @@
+class Solution:
+    def minimumTotal(self, triangle: List[List[int]]) -> int:
+
+        n = len(triangle)
+        dp = triangle[-1][:]  #Copy of last Row
+
+        # Start from second last row
+        for r in range(n-2, -1, -1):
+            for c in range(len(triangle[r])):
+                dp[c]= triangle[r][c] + min(dp[c],dp[c+1])
+
+        return dp[0]
+
+        
+
+
+
+        
+                
+        
