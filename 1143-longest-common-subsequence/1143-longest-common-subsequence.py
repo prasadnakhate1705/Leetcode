@@ -24,20 +24,40 @@ class Solution:
 
         ## Tabulation
 
+        # n = len(text1)
+        # m = len(text2)
+        
+        # dp = [[0]* (m) for _ in range(n)]
+
+        # for i in range(n):
+        #     for j in range(m):
+        #         if text1[i]==text2[j]:
+        #             dp[i][j]= 1 + (dp[i-1][j-1] if i > 0 and j > 0 else 0)
+        #         else:
+        #             dp[i][j] = max((dp[i-1][j] if i>0 else 0), (dp[i][j-1] if j>0 else 0))
+            
+
+        # return dp[n-1][m-1]
+
+        # Tabulation with space optimization
+
         n = len(text1)
         m = len(text2)
         
-        dp = [[0]* (m) for _ in range(n)]
+        prev_dp = [0]* (m)
+        dp_curr = [0]* m
 
         for i in range(n):
             for j in range(m):
                 if text1[i]==text2[j]:
-                    dp[i][j]= 1 + (dp[i-1][j-1] if i > 0 and j > 0 else 0)
+                    dp_curr[j]= 1 + (prev_dp[j-1] if i > 0 and j > 0 else 0)
                 else:
-                    dp[i][j] = max((dp[i-1][j] if i>0 else 0), (dp[i][j-1] if j>0 else 0))
+                    dp_curr[j] = max((prev_dp[j] if i>0 else 0), (dp_curr[j-1] if j>0 else 0))
+            
+            prev_dp = dp_curr[:]
             
 
-        return dp[n-1][m-1]
+        return prev_dp[m-1]
         
 
 
