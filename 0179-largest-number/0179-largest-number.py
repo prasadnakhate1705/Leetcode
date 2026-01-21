@@ -5,16 +5,27 @@ class Solution:
         for i , n in enumerate(nums):
             nums[i] = str(n)
 
-        def compare(n1, n2):
-            if n1+n2 > n2+n1:
-                return -1
-            else:
-                return 1
-        
-        nums =sorted(nums, key = cmp_to_key(compare))
+        n = len(nums)
+
+        # bubble sort
+        for i in range(n):
+            for j in range(0, n - i - 1):
+                if nums[j] + nums[j + 1] < nums[j + 1] + nums[j]:
+                    nums[j], nums[j + 1] = nums[j + 1], nums[j]
+
+        # remove leading zeros
+        res = ""
+        for num in nums:
+            res += num
+
+        # handle case like "000"
+        i = 0
+        while i < len(res) - 1 and res[i] == '0':
+            i += 1
+
+        return res[i:]
 
 
-        return str(int("".join(nums)))
 
 
 
