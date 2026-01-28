@@ -4,12 +4,12 @@ class Solution:
 
         
         ans = 0
-        last = len(binary)
+        last = -1
 
         for i in range(len(binary)-1, -1,-1):
 
             if binary[i]=='1':
-                if last == len(binary):
+                if last == -1:
                     last=i
                     continue
                 
