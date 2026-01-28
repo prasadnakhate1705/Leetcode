@@ -3,18 +3,20 @@ class Solution:
         binary = format(n, 'b')
 
         
-        idx = []
-
-        for i in range(len(binary)):
-            if binary[i]=='1':
-                idx.append(i)
-        
         ans = 0
+        last = len(binary)
 
-        for i in range(len(idx)-1):
-            ans = max(ans, (idx[i+1]-idx[i]))
-        
-        
+        for i in range(len(binary)-1, -1,-1):
+
+            if binary[i]=='1':
+                if last == len(binary):
+                    last=i
+                    continue
+                
+                if last!='1':
+                    ans = max(ans, last-i)
+                    last = i
+                
         return ans
                 
                 
