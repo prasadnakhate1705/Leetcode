@@ -34,6 +34,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prasadnakhate1705/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
@@ -45,6 +46,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prasadnakhate1705/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
@@ -121,4 +123,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prasadnakhate1705/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prasadnakhate1705/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prasadnakhate1705/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
