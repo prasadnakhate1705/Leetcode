@@ -1,20 +1,33 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+
         stack = []
 
-        for i in range(len(s)):
+        hash_map = {')':'(','}':'{',']':'['}
+
+        for char in s:
+
+            if not stack:
+                stack.append(char)
+                continue
+
             if stack:
-                if s[i]==')'and stack[-1]=='(':
+                if char==')' and stack[-1]==hash_map[char]:
                     stack.pop()
-                elif s[i]=='}'and stack[-1]=='{':
+                elif char=='}' and stack[-1]==hash_map[char]:
                     stack.pop()
-                elif s[i]==']'and stack[-1]=='[':
+                elif char==']' and stack[-1]==hash_map[char]:
                     stack.pop()
                 else:
-                    stack.append(s[i])
-
-            else:
-                stack.append(s[i])
+                    stack.append(char)
+            
+            
         
-        return not stack
+        if len(stack)>0:
+            return False
+        else:
+            return True
+
+        
+
         
