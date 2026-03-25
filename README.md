@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/prasadnakhate1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
@@ -29,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prasadnakhate1705/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
@@ -98,6 +100,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasadnakhate1705/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prasadnakhate1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/prasadnakhate1705/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
@@ -130,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasadnakhate1705/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
