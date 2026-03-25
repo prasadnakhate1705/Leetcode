@@ -89,6 +89,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/prasadnakhate1705/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/prasadnakhate1705/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
