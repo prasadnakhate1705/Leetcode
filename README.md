@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasadnakhate1705/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/prasadnakhate1705/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/prasadnakhate1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0463-island-perimeter](https://github.com/prasadnakhate1705/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
@@ -24,6 +25,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
@@ -150,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prasadnakhate1705/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
