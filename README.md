@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasadnakhate1705/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
@@ -19,6 +20,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
