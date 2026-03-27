@@ -8,9 +8,12 @@ class Solution:
             prefix_sum+=nums[i]
 
             if prefix_sum - k in hash_map:
-                count += hash_map[prefix_sum - k]
+                count = count + hash_map[prefix_sum - k]
             
-            hash_map[prefix_sum] = hash_map.get(prefix_sum, 0) + 1
+            if prefix_sum not in hash_map:
+                hash_map[prefix_sum]=1
+            else:
+                hash_map[prefix_sum]+=1
         
         return count
 
