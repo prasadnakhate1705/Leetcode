@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadnakhate1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/prasadnakhate1705/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasadnakhate1705/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasadnakhate1705/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/prasadnakhate1705/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/prasadnakhate1705/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasadnakhate1705/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/prasadnakhate1705/Leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Two Pointers
@@ -182,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prasadnakhate1705/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasadnakhate1705/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/prasadnakhate1705/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
