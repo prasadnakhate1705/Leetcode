@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/prasadnakhate1705/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/prasadnakhate1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/prasadnakhate1705/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadnakhate1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/prasadnakhate1705/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/prasadnakhate1705/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -209,6 +210,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/prasadnakhate1705/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
