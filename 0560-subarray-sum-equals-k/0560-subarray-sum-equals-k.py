@@ -1,0 +1,19 @@
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        prefix_sum = 0
+        count = 0
+        hash_map = {0:1}
+        
+        for i in range(len(nums)):
+            prefix_sum+=nums[i]
+
+            if prefix_sum - k in hash_map:
+                count += hash_map[prefix_sum - k]
+            
+            hash_map[prefix_sum] = hash_map.get(prefix_sum, 0) + 1
+        
+        return count
+
+
+
+        
