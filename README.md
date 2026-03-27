@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/prasadnakhate1705/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
@@ -181,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prasadnakhate1705/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/prasadnakhate1705/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +242,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/prasadnakhate1705/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
