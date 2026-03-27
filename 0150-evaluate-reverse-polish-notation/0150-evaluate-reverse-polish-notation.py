@@ -1,31 +1,21 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-
-
-        # Map string operators to functions from the operator module
-        OPERATIONS = {
-            '+': operator.add,
-            '-': operator.sub,
-            '*': operator.mul,
-            '/': lambda a, b: int(a / b)
-        }
-
-        i=0
         stack = []
 
-        while i< len(tokens):
-
-            if tokens[i] not in OPERATIONS:
-                stack.append(int(tokens[i]))
+        for token in tokens:
+            if token not in "+-*/":
+                stack.append(int(token))
             else:
-                sec = stack.pop()
-                first = stack.pop()
+                b = stack.pop()
+                a = stack.pop()
 
-                res = OPERATIONS[tokens[i]](first,sec)
-                stack.append(res)
-            
-            i+=1
-        
+                if token == '+':
+                    stack.append(a + b)
+                elif token == '-':
+                    stack.append(a - b)
+                elif token == '*':
+                    stack.append(a * b)
+                else:  # '/'
+                    stack.append(int(a / b))  # truncate toward zero
+
         return stack[-1]
-                
-        
