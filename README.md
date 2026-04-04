@@ -30,6 +30,7 @@
 | [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/prasadnakhate1705/Leetcode/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/prasadnakhate1705/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/prasadnakhate1705/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
@@ -52,6 +53,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadnakhate1705/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
@@ -212,6 +214,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prasadnakhate1705/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,8 +262,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
