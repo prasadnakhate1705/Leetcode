@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasadnakhate1705/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0355-design-twitter](https://github.com/prasadnakhate1705/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadnakhate1705/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -214,6 +215,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prasadnakhate1705/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/prasadnakhate1705/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/prasadnakhate1705/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
@@ -263,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/prasadnakhate1705/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/prasadnakhate1705/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
@@ -273,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/prasadnakhate1705/Leetcode/tree/main/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
