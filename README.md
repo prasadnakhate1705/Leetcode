@@ -215,6 +215,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/prasadnakhate1705/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/prasadnakhate1705/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/prasadnakhate1705/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
