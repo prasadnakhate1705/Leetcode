@@ -44,6 +44,7 @@
 | [0001-two-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prasadnakhate1705/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0076-minimum-window-substring](https://github.com/prasadnakhate1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -66,6 +67,7 @@
 | [0014-longest-common-prefix](https://github.com/prasadnakhate1705/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prasadnakhate1705/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/prasadnakhate1705/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/prasadnakhate1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -182,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/prasadnakhate1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
