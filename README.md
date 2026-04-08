@@ -54,6 +54,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadnakhate1705/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0706-design-hashmap](https://github.com/prasadnakhate1705/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -66,6 +67,7 @@
 | [0020-valid-parentheses](https://github.com/prasadnakhate1705/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/prasadnakhate1705/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/prasadnakhate1705/Leetcode/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -139,6 +141,7 @@
 | [0283-move-zeroes](https://github.com/prasadnakhate1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasadnakhate1705/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prasadnakhate1705/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/prasadnakhate1705/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
@@ -181,6 +184,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasadnakhate1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
