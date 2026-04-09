@@ -3,7 +3,7 @@ class Solution:
 
         curr_sum = 0
         l = 0
-        min_len = float('inf')
+        min_len = len(nums)+1
 
         for r in range(len(nums)):
             curr_sum += nums[r]
@@ -13,7 +13,7 @@ class Solution:
                 curr_sum-=nums[l]
                 l+=1
         
-        return 0 if min_len==float('inf') else min_len
+        return 0 if min_len==len(nums)+1 else min_len
 
             
 
