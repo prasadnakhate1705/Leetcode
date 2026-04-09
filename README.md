@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0252-meeting-rooms](https://github.com/prasadnakhate1705/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0283-move-zeroes](https://github.com/prasadnakhate1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasadnakhate1705/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadnakhate1705/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -48,6 +49,7 @@
 | [0146-lru-cache](https://github.com/prasadnakhate1705/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/prasadnakhate1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prasadnakhate1705/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasadnakhate1705/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0355-design-twitter](https://github.com/prasadnakhate1705/Leetcode/tree/main/0355-design-twitter/) | Medium |
@@ -261,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prasadnakhate1705/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Monotonic Stack
