@@ -39,6 +39,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/prasadnakhate1705/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/prasadnakhate1705/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [0072-edit-distance](https://github.com/prasadnakhate1705/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadnakhate1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0542-01-matrix](https://github.com/prasadnakhate1705/Leetcode/tree/master/0542-01-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/prasadnakhate1705/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/prasadnakhate1705/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/prasadnakhate1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasadnakhate1705/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
